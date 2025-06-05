@@ -1,1 +1,1 @@
-[# budgetgame](https://tngus0814.github.io/budgetgame/)
+https://tngus0814.github.io/budgetgame/
